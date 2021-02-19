@@ -1,5 +1,14 @@
 # Making better mistakes
 
+
+
+
+Test submoule in squad
+
+
+--
+
+
 This repository contains the code for the paper:
 
 **[Making Better Mistakes: Leveraging Class Hierarchies with Deep Networks](https://arxiv.org/abs/1912.09393)**  
